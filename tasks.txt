@@ -1,0 +1,15 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+thuthu, bake, bake a cake for 20 minutes and make coffee, 03 March 2023, 25 Feb 2023, No
+thuthu, rre, ere, r, ere, No
+admin, efe, efgeg, efgeg, egerg, No
+makhosi, derer, errgdhb, sdgdwef, sfdsfg, No
+thuthu, nest, put the eggs in the nest, 23 march 2023, 22 february, 
+thuthu, ththth, rger, eger, ergerg, 
+thuthu, rrer, ererer, ererer, ererer, No
+thuthu, nest, clean., e, e, No
+thuthu, nest , clean it, 03 feb, 04 feb, 
+tsimo, sing, write a song about love, 10 March 2023, 28 Feb 2023, No
+thuthu, sing, about tsimo, 10 March, 28 Feb, Yes
+admin, toilet, clean it thouroughly, 10 March 2023, 28 Feb 2023, No
+thuthu, dance, call chris brown, 10 march, 28 feb, Yes
