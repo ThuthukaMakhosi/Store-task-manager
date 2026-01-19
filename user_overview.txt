@@ -1,0 +1,216 @@
+
+
+Username: admin
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 3
+Percentage of tasks assigned to user: 33.33%
+Percentage of tasks completed by user: 33.33%
+Percentage of tasks that must still be completed by user: 66.67%
+Tasks overdue by user: 33.33%
+User does not have any tasks assigned yet!
+
+
+Username: thuthu
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+User does not have any tasks assigned yet!
+
+makhosi
+User does not have any tasks assigned yet!
+
+
+Username: makhosi
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+User does not have any tasks assigned yet!
+
+agr
+User does not have any tasks assigned yet!
+
+
+Username: agr
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+User does not have any tasks assigned yet!
+
+noma
+User does not have any tasks assigned yet!
+
+
+Username: noma
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+User does not have any tasks assigned yet!
+
+ray
+User does not have any tasks assigned yet!
+
+
+Username: ray
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+User does not have any tasks assigned yet!
+
+
+Username: tsimo
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+mande
+User does not have any tasks assigned yet!
+
+
+Username: mande
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+karen
+User does not have any tasks assigned yet!
+
+
+Username: karen
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+thato
+User does not have any tasks assigned yet!
+
+
+Username: thato
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+greg
+User does not have any tasks assigned yet!
+
+
+Username: greg
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+chris
+User does not have any tasks assigned yet!
+
+
+Username: chris
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+User does not have any tasks assigned yet!
+
+
+Username: admin
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 3
+Percentage of tasks assigned to user: 33.33%
+Percentage of tasks completed by user: 33.33%
+Percentage of tasks that must still be completed by user: 66.67%
+Tasks overdue by user: 33.33%
+
+
+Username: thuthu
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 5
+Percentage of tasks assigned to user: 55.56%
+Percentage of tasks completed by user: 40.0%
+Percentage of tasks that must still be completed by user: 60.0%
+Tasks overdue by user: 60.0%
+
+makhosi
+User does not have any tasks assigned yet!
+
+agr
+User does not have any tasks assigned yet!
+
+noma
+User does not have any tasks assigned yet!
+
+ray
+User does not have any tasks assigned yet!
+
+
+Username: tsimo
+Total number of users registered: 12
+Total number of tasks: 9
+Number of tasks assigned to user: 1
+Percentage of tasks assigned to user: 11.11%
+Percentage of tasks completed by user: 0.0%
+Percentage of tasks that must still be completed by user: 100.0%
+Tasks overdue by user: 0.0%
+
+mande
+User does not have any tasks assigned yet!
+
+karen
+User does not have any tasks assigned yet!
+
+thato
+User does not have any tasks assigned yet!
+
+greg
+User does not have any tasks assigned yet!
+
+chris
+User does not have any tasks assigned yet!
