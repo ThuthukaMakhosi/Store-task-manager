@@ -17,5 +17,8 @@ This Python program helps a small business manage tasks assigned to team members
 ## How to Run
 1. Open the project in your preferred code editor.
 2. Run the Python file:
-      task_manager.py
+
+## Versions
+- `task manager.py`: Initial implementation
+- `task manager v2.py`: Improved version
 
